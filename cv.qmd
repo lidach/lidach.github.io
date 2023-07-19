@@ -1,0 +1,9 @@
+---
+title: "CV"
+---
+
+I embed a current version of my CV below. You can also [download the PDF here](/add_files/Chong_CV.pdf).
+
+```{=html}
+<iframe width = "780" height = "500" src = "/add_files/Chong_CV.pdf"></iframe>
+```

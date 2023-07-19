@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: Lisa Chong
+  navbar:
+    left:
+      - href: home.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
+      - href: https://scholar.google.com/citations?user=p5STazoAAAAJ&hl=en&oi=ao
+        text: Google Scholar
+    tools:
+      - icon: github
+        href: https://github.com/lidach
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

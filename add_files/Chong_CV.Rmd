@@ -1,0 +1,191 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Lisa Chong
+
+address: "375 Wilson Road · East Lansing, MI, USA 48824"
+fontawesome: yes
+email: chonglis@msu.edu
+phone: "+1 201 221 6117"
+github: lidach
+updated: no
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Current Position
+
+***Michigan State University*** \hfill East Lansing, Michigan
+
+Research Associate \hfill 2023 - present
+
+My research will primarily focus on methodology for age-structured stock assessments, with an emphasis on the types of penalized likelihood models currently used in 1836 treaty waters of the Great Lakes and other areas, and comparison of those methods with alternative assessment approaches.
+
+# Education
+
+***University of Florida***\hfill Gainesville, Florida
+
+Ph.D. in Fisheries and Aquatic Sciences \hfill 2019 - 2023
+
+-   Dissertation: *"*Evaluating the socioecological effects and feedbacks of artificial reefs for recreational fisheries and the Gulf of Mexico red snapper"
+
+***University of Florida*** \hfill Gainesville, Florida
+
+Quantitative Fisheries Graduate Certificate \hfill 2018 - 2020
+
+***Universität Bremen***\hfill Bremen, Germany
+
+M.S. in International Studies in Aquatic Tropical Ecology \hfill 2016-2018
+
+-   Thesis: "Performance evaluation of data-poor, length-based stock assessment methods"
+
+***State University of New York at Stony Brook*** \hfill Stony Brook, New York
+
+B.S. in Marine Vertebrate Biology \hfill 2012 - 2016
+
+# Experience
+
+***University of Florida*** \hfill Gainesville, Florida
+
+Graduate Assistant \hfill 2019 - 2023
+
+My dissertation research focused on quantitative studies on social-ecological and population dynamics modeling of marine fish stock assessments. I created statistical and mathematical models, such as spatially-explicit simulation models, random utility models, and management strategy evaluations, to analyze red snapper population dynamics and artificial reefs. I also worked on additional research on recreational scallop fisheries and greater amberjack fisheries in the Gulf of Mexico and South Atlantic.
+
+***Leibniz Center for Marine Tropical Research*** \hfill Bremen, Germany
+
+Guest Scientist \hfill 2018-2019
+
+My main duty was to aid in writing a grant proposal to provide strategies on the provision of ecosystem services in coastal ecosystems of Europe and Latin American and Caribbean for a EU research and innovation funding program. I also worked with my advisor Dr. Matthias Wolff and a postdoc to publish a peer-reviewed publication on data-limited length-based stock assessment methods. I also assisted working group members on stock assessment methods and R coding related problems.
+
+***Leibniz Center for Marine Tropical Research*** \hfill Bremen, Germany
+
+Data Analyst \hfill 2018
+
+I organized and analyzed survey data from an urban mangrove project conducted by Dr. Inga Nordhaus and her postdoc Dr. Rapti Siriwardane-de Zoysa. I then conducted statistical analyses, such as ANOVA and contingency analysis, and basic catch per unit of effort calculations. We published a policy briefing report in 2019. The purpose of this work was to provide baseline data on biodiversity and density of crustaceans in Penang, Malaysia.
+
+***State University of New York at Stony Brook*** \hfill Stony Brook, New York
+
+Undergraduate Research Assistant \hfill 2016
+
+My main duty was to assist Ph.D. student Rebecca Kulp in following research topic: "Effect of habitat refuge for mud crabs in seagrass and slipper snail beds from background abundance of predators". I sorted through samples of slipper snail beds and identified species found in the samples.
+
+# Publications
+
+1.  **Chong L,** Siders Z, Lorenzen K, Ahrens R, and Camp E. (in review). Global synthesis of effects and feedbacks from artificial reefs on socioecological systems in recreational fisheries.
+
+2.  **Chong L**, Pienaar E, Ahrens R, and Camp E. (in review). Recreational Angler Preferences for, and Potential Effort Responses, to Different Red Snapper Management Approaches.
+
+3.  **Chong L\***, Fisch N\*, Borsum JS, Granneman J, Perry D, Love G, Hall-Schard B, Botta R, Lorenzen K, Camp E, and Siders Z. (2023). [Examining the performance of alternative harvest regulations for short-lived taxa: A case study of Florida Bay scallop management](https://doi.org/10.1016/j.fishres.2023.106683). Fisheries Research, 263, 106683 [\*Co-first author].
+
+4.  **Chong L,** Mildenberger TK, Rudd MB, Taylor MH, Cope JM, Branch TA, Wolff M, and Stäbler M. (2020). [Performance evaluation of data-limited, length-based stock assessment methods](https://doi.org/10.1093/icesjms/fsz212). ICES Journal of Marine Science.
+
+## Policy Brief, Extension, Proceedings
+
+1.  ICES. (2023). [Eleventh Workshop on the Development of Quantitative Assessment Methodologies based on LIFE-history traits, exploitation characteristics, and other relevant parameters for data-limited stocks (WKLIFE XI)](https://doi.org/10.17895/ices.pub.22140260). ICES Scientific Reports. 5:21. 74 pp.
+
+2.  Camp EV, **Chong L**, Collins AB, Abeels H, Mille K, Hall-Scharf B, Zangroniz A, Jackson S, Krueger S, and Blanco V. (2022). [An update on Florida's Artificial Reefs: recent research and what it means for Florida](https://edis.ifas.ufl.edu/publication/FA245). EDIS Document. Fisheries and Aquatic Sciences Department, UF/IFAS Extension, Gainesville, FL.
+
+3.  **Chong L**, Collins AB, Abeels H, Braswell A, Zangroniz A, Ropicki A, Jackson S, and Camp EV. (2022). [Artificial Reefs in Florida 101 -- effects on fisheries: Part 4 of an Artificial Reef series](https://edis.ifas.ufl.edu/publication/FA244). EDIS Document. Fisheries and Aquatic Sciences Department, UF/IFAS Extension, Gainesville, FL.
+
+4.  **Chong L**, Collins AB, Abeels H, Braswell A, Zangroniz A, Ropicki A, Jackson S, and Camp EV. (2022). [Artificial Reefs in Florida 101 -- effects on fishers (and divers): Part 3 of an Artificial Reef series](https://edis.ifas.ufl.edu/publication/FA243). EDIS Document. Fisheries and Aquatic Sciences Department, UF/IFAS Extension, Gainesville, FL.
+
+5.  **Chong L,** Collins AB, Abeels H, Braswell A, Zangroniz A, Ropicki A, Jackson S, and Camp EV. (2022). [Artificial Reefs in Florida 101 -- effects on fish: Part 2 of an Artificial Reef series](https://edis.ifas.ufl.edu/publication/FA240). EDIS Document. Fisheries and Aquatic Sciences Department, UF/IFAS Extension, Gainesville, FL.
+
+6.  **Chong L**, Collins AB, Abeels H, Braswell A, Ropicki A, Jackson S, and Camp EV. (2022). [Artificial Reefs in Florida 101 -- why are they built? Part 1 of an Artificial Reef series](https://edis.ifas.ufl.edu/publication/FR450). EDIS Document. Fisheries and Aquatic Sciences Department, UF/IFAS Extension, Gainesville, FL.
+
+7.  Camp EV, **Chong L**, Collins AB, Sipos M, Mille K, Hall-Scharf B, Jackson S, Abeels H, Krueger S, and Blanco V. (2022). [An update on Florida's Artificial Reefs: recent deployments and trends](https://edis.ifas.ufl.edu/publication/FA242). EDIS Document. Fisheries and Aquatic Sciences Department, UF/IFAS Extension, Gainesville, FL.
+
+8.  **Chong L**, Mille K, Abeels HA, Blanco V, and Camp EV. (2021). [Artificial reefs: how do they affect people?](https://edis.ifas.ufl.edu/publication/FA231). EDIS Document. Fisheries and Aquatic Sciences Department, UF/IFAS Extension, Gainesville, FL.
+
+9.  Nordhaus I, Siriwardane-de Zoysa R, Gillis LG, Yin Chee S, **Chong L**, Firth L, Han A, Kwang SY, Stiepani J, Sturgeon A, Rajindran S, Yeok, FS. (2019). [The future of mangroves in Penang, Malaysia: Bridging science, policy, and perspectives](https://www.leibniz-zmt.de/images/content/pdf/Policy_Briefs/2019-01-The-Future-of-Mangroves-in-Penang-Malaysia-Bridging-Science-Policy-and-Perspectives.pdf). ZMT Policy Brief.
+
+# Conferences
+
+1.  **Chong L**, Pienaar EF, Ahrens RNM, and Camp EV. 2023. Recreational Angler Preferences for, and Potential Effort Responses, to Different Red Snapper Management Approaches. 43rd Annual Meeting of the Florida Chapter of the American Fisheries Society. May 9-11, 2023, Talk.
+
+2.  **Chong L**, Siders ZA, Karnauskas M, Lorenzen K, Ahrens R, and Camp EV. 2023. Incorporating uncertainties about ecological and socioeconomic aspects to improve management and placement decisions of artificial reefs. World Recreational Fishing Conference 10. Melbourne, Australia. February 20-22, 2023, Talk.
+
+3.  **Chong L**. Performance evaluation of data-limited, length-based life-history and stock assessment methods. Workshop 11 on the Development of Quantitative Assessment Methodologies based on Life-history traits, exploitation characteristics, and other relevant parameters for data-limited stocks (WKLIFE XI). January 16-20, 2023, Talk.
+
+4.  **Chong L**, Pienaar EF, and Camp EV. 2022. Recreational angler preferences for red snapper fisheries management options in the Gulf of Mexico: a stated preference choice analysis. American Fisheries Society Annual Meeting. August 21-25, Virtual. Talk.
+
+5.  Lorenzen K and **Chong L**. 2022. Visioning Phase - Situation Assessment, Review, and Research Priorities. Greater Amberjack Visioning Insights Workshop. August 8-10, 2022, Talk. [Co-speaker].
+
+6.  **Chong L**, Siders ZA, Fisch NC, and Camp EV. 2021. Spatial considerations can determine net socioecological effects of artificial reefs on recreational fisheries and their management. Gulf and Caribbean Fisheries Institute Conference. November 8-12, 2021, Virtual. Talk.
+
+7.  **Chong L** and Camp EV. 2021. Incorporating uncertainties about ecological and socioeconomic aspects to improve management and placement decisions of artificial reefs. Think Tank Seminar. October 19, 2021, Virtual. Talk.
+
+8.  **Chong L**, Siders ZA, Fisch NC, and Camp EV. 2021. Spatial considerations can determine net socioecological effects of artificial reefs on recreational fisheries and their management. World Fisheries Congress. September 20-24, 2021, Virtual. Talk.
+
+9.  **Chong L** and Camp EV. 2021. Review of the socioecological effects of artificial reefs in recreational fisheries. 41^st^ Annual Meeting of the Florida Chapter of the American Fisheries Society. April 20-22, 2021, Virtual. Talk.
+
+10. **Chong L** and Camp EV. 2020. Spatial considerations can determine net socioecological effects of artificial reefs on recreational fisheries and their management. Florida Artificial Reef Summit 2020. November 4-6, 2020, Virtual. Talk.
+
+11. **Chong L** and Camp EV. 2020. Can spatial considerations determine socioecological effects of artificial reefs on recreational fisheries and their management?. American Fisheries Society Virtual Annual Meeting 2020. September 14-25, 2020, Virtual. Talk.
+
+12. **Chong L**, Camp EV, Lorenzen K, and Ahrens R. Effects of artificial reefs on recreational fisheries: what we don't know might hurt us. International Symposium on Stock Enhancement and Sea Ranching (ISSESR). November 11-14, 2019, Sarasota, FL, USA. Talk.
+
+13. **Chong L**, Mildenberger TK, Rudd MB, Taylor MH, Cope JM, Branch TA, Wolff M, and Stäbler M. Performance evaluation of data-limited, length-based stock assessment methods. International Council for the Exploration of the Sea (ICES) Annual Science Conference. September 9-12, 2019, Gothenburg, Sweden. Poster.
+
+14. **Chong L**, Mildenberger TK, Rudd MB, Taylor MH, Cope JM, Branch TA, Wolff M, and Stäbler M. Performance evaluation of data-poor stock assessment methods. Working Group on Length-Based Methods for Population Studies and Stock Assessment. May 28-30, 2019, Bremen, Germany. Talk.
+
+## Workshops
+
+1.  Workshop 11 on the Development of Quantitative Assessment Methodologies based on Life-history traits, exploitation characteristics, and other relevant parameters for data-limited stocks (WKLIFE XI). January 16-20, 2023. Workshop.
+
+2.  Greater Amberjack Visioning Insights Workshop. New Orleans, Louisiana. August 8-10, 2022. Workshop. Decision Analysis in Natural Resource Management Workshop. University of Washington. September 21-25, 2021. Workshop.
+
+3.  Numerical Computing for the Natural Resources TMB Workshop. University of Washington. September 23-28, 2020. Virtual. Workshop.
+
+4.  Advanced school on multispecies modelling approaches for ecosystem based marine resource management in the Mediterranean Sea, Italy. July 30 - August 3, 2018. Workshop.
+
+# Scholarships and Awards
+
+-   Florida Chapter of American Fisheries Society Student Travel Award \hfill 2023
+
+-   UF IFAS travel scholarship \hfill 2023
+
+-   GCFI Ron Schmied Travel Award recipient \hfill 2021
+
+-   ICES Early Career Support for World Fisheries Congress \hfill 2021
+
+-   AIRFB WF Thompson Best Student Paper Award \hfill 2020
+
+-   UF SFRC/FFGS Travel Grant \hfill 2019; 2023
+
+# Additional Experience
+
+-   Research Assistant, Research Track Working Group: 2022 Improving Assessments for Black Sea Bass \hfill 2022 - 2023
+
+-   American Institute of Fishery Research Biologists (AIFRB) member \hfill 2021 - 2023
+
+-   Manuscript reviewer (*5 manuscripts - Fisheries Research, Bulletin for Marine Science, ICES Journal of Marine Science*)
+
+-   Fisheries and Aquatic Sciences Graduate Student Organization treasurer \hfill 2020 - 2022
+
+-   American Fisheries Society (AFS) member \hfill 2020 - Current
+
+-   Graduate Student Symposium Committee member \hfill 2020 - 2022
+
+-   Visioning Team member, GOM and SA Greater Amberjack Research Program \hfill 2020 - 2022
+
+-   SFRC Fall 2020 Grad Gathering Organizing Team \hfill 2020
+
+-   Teaching Assistant at Universität Bremen \hfill 2018
+
+# Skills
+
+-   ***Computing:*** Microsoft Office, Git, R, C++, Markdown, LaTex, Stock Synthesis, ADMB, Stan, JAGS
+
+-   ***Languages:*** English (primary), Korean, German
+
+-   ***Research Interests:*** Fish population dynamics, stock assessment, fisheries management, simulation modeling, ecological modeling, management strategy evaluation, statistics
