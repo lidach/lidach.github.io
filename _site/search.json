@@ -40,5 +40,12 @@
     "title": "CV",
     "section": "",
     "text": "I embed a current version of my CV below. You can also download the PDF here."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lisa Chong",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
 ]
