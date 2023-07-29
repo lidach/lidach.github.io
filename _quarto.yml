@@ -4,27 +4,22 @@ project:
 
 website:
   title: Lisa Chong
+  favicon: /Users/lisa_chong/Library/CloudStorage/GoogleDrive-lisa.chong8594@gmail.com/My Drive/GitHub/lidach.github.io/add_files/Chong_logo.jpg
   navbar:
+    logo: /add_files/Chong_logo.jpeg
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
       - href: research.qmd
         text: Research
       - href: cv.qmd
         text: CV
-      - href: https://scholar.google.com/citations?user=p5STazoAAAAJ&hl=en&oi=ao
-        text: Google Scholar
-    tools:
-      - icon: github
-        href: https://github.com/lidach
+
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
 
 editor: visual
 

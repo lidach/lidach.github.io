@@ -1,11 +1,59 @@
 ---
-title: "Lisa Chong"
+  links:
+  - icon: github
+    text: Github
+    href: https://github.com/lidach
+  - icon: google
+    text: Google Scholar
+    href: https://scholar.google.com/citations?user=p5STazoAAAAJ&hl=en&oi=ao
+  - icon: envelope
+    text: Email
+    href: "mailto:chonglis@msu.edu"
 ---
 
-This is a Quarto website.
+::: {#about-block}
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: columns
+::: {.column width="30%"}
+![](./add_files/me.jpg)
 
-```{r}
-1 + 1
-```
+<br> 
+
+![](./add_files/math.jpg)
+
+:::
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+::: {.column width="60%"}
+
+# About
+
+I am a Research Associate (Postdoc) at Quantitative Fisheries Center ([QFC](https://www.canr.msu.edu/qfc/)) & Michigan State University. I consider myself a quantitative fisheries ecologist. Some of my research interests and expertise include stock assessment, simulation modeling, fish population dynamics, socio-ecological modeling, management strategy evaluation, and assessment of harvest regulations.
+:::
+:::
+
+<br>
+<br>
+<br>
+
+::: columns
+::: {.column width="60%"}
+# Background
+
+I received my BSc. in Marine Vertebrate Biology at the State University of New York at Stony Brook in 2016 and my MSc. in International Studies in Aquatic Tropical Ecology at the Universität Bremen in Germany in 2018. I just recently completed my Ph.D. in Fisheries and Aquatic Sciences at the University of Florida in [Dr. Ed Camp's lab](https://edvcamp.wordpress.com/) in 2023.
+
+:::
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+::: {.column width="30%"}
+![](./add_files/scen1.jpg)
+
+<br>
+
+![](./add_files/fishing.jpg)
+:::
+:::
+

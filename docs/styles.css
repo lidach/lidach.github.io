@@ -1,1 +1,13 @@
 /* css styles */
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+<div class="page-layout-custom">
+  <div class="grid" style="--bs-columns: 10; --bs-gap: 1rem;">
+    <div class="g-col-6">.g-col-6</div>
+    <div class="g-col-4">.g-col-4</div>
+  </div>
+</div>
