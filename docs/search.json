@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "About",
     "section": "",
-    "text": "About\nI am a Research Associate (Postdoc) at Quantitative Fisheries Center (QFC) & Michigan State University. I consider myself a quantitative fisheries ecologist. Some of my research interests and expertise include stock assessment, simulation modeling, fish population dynamics, socio-ecological modeling, management strategy evaluation, and assessment of harvest regulations.\n   \n\n\n\n  \n\n\n\nBackground\nI received my BSc. in Marine Vertebrate Biology at the State University of New York at Stony Brook in 2016 and my MSc. in International Studies in Aquatic Tropical Ecology at the Universität Bremen in Germany in 2018. I just recently completed my Ph.D. in Fisheries and Aquatic Sciences at the University of Florida in Dr. Ed Camp’s lab in 2023."
+    "text": "About\nI am a Research Associate (Postdoc) at the Quantitative Fisheries Center (QFC) & Michigan State University. I consider myself a quantitative fisheries ecologist. Some of my research interests and expertise include stock assessment, simulation modeling, fish population dynamics, socio-ecological modeling, management strategy evaluation, and assessment of harvest regulations.\n   \n\n\n\n  \n\n\n\nBackground\nI received my BSc. in Marine Vertebrate Biology at the State University of New York at Stony Brook in 2016 and my MSc. in International Studies in Aquatic Tropical Ecology at the Universität Bremen in Germany in 2018. I just recently completed my Ph.D. in Fisheries and Aquatic Sciences at the University of Florida in Dr. Ed Camp’s lab in 2023."
   },
   {
     "objectID": "cv.html",
@@ -33,5 +33,19 @@
     "title": "CV",
     "section": "",
     "text": "I embed a current version of my CV below. You can also download the PDF here."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a Research Associate (Postdoc) at the Quantitative Fisheries Center (QFC) & Michigan State University. I consider myself a quantitative fisheries ecologist. Some of my research interests and expertise include stock assessment, simulation modeling, fish population dynamics, socio-ecological modeling, management strategy evaluation, and assessment of harvest regulations.\n\n\nUniversity of Florida | Gainesville, FL Ph.D. in Fisheries and Aquatic Sciences | 2023\nUniversität Bremen| Bremen, Germany M.S. in International Studies in Aquatic Tropical Ecology | 2018\nState University of New York at Stony Brook | Stony Brook, NY B.S. in Marine Vertebrate Biology | 2016"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "",
+    "text": "University of Florida | Gainesville, FL Ph.D. in Fisheries and Aquatic Sciences | 2023\nUniversität Bremen| Bremen, Germany M.S. in International Studies in Aquatic Tropical Ecology | 2018\nState University of New York at Stony Brook | Stony Brook, NY B.S. in Marine Vertebrate Biology | 2016"
   }
 ]

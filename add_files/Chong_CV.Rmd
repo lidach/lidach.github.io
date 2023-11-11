@@ -11,7 +11,6 @@ author: Lisa Chong
 address: "375 Wilson Road · East Lansing, MI, USA 48824"
 fontawesome: yes
 email: chonglis@msu.edu
-phone: "+1 201 221 6117"
 github: lidach
 updated: no
 
@@ -168,11 +167,11 @@ My main duty was to assist Ph.D. student Rebecca Kulp in following research topi
 
 -   American Institute of Fishery Research Biologists (AIFRB) member \hfill 2021 - 2023
 
--   Manuscript reviewer (*5 manuscripts - Fisheries Research, Bulletin for Marine Science, ICES Journal of Marine Science*)
+-   Manuscript reviewer (*6 manuscripts - Fisheries Research, Bulletin for Marine Science, ICES Journal of Marine Science, Ecological Modelling*) \hfill 2020 - present
 
 -   Fisheries and Aquatic Sciences Graduate Student Organization treasurer \hfill 2020 - 2022
 
--   American Fisheries Society (AFS) member \hfill 2020 - Current
+-   American Fisheries Society (AFS) member \hfill 2020 - present
 
 -   Graduate Student Symposium Committee member \hfill 2020 - 2022
 
@@ -184,7 +183,7 @@ My main duty was to assist Ph.D. student Rebecca Kulp in following research topi
 
 # Skills
 
--   ***Computing:*** Microsoft Office, Git, R, C++, Markdown, LaTex, Stock Synthesis, ADMB, Stan, JAGS
+-   ***Computing:*** Microsoft Office, Git, R, C++, TMB, RTMB, Markdown, LaTex, Stock Synthesis, ADMB, Stan
 
 -   ***Languages:*** English (primary), Korean, German
 
