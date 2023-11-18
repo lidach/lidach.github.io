@@ -3,7 +3,7 @@ title: "Examining the performance of alternative harvest regulations for short-l
 css: style.css
 ---
 
-Collaborators: Nicholas Fisch (NOAA)*, John Scott Borsum (UF), Jennifer Granneman (FWC), Diana Perry (UF), Gabrielle Love (UF), Brittany Hall-Scharf (FL SeaGrant), Robert Botta (UF), Kai Lorenzen (UF), Edward Camp (UF), Zachary Siders (UF)
+Authors: Lisa Chong* (UF), Nicholas Fisch* (NOAA), John Scott Borsum (UF), Jennifer Granneman (FWC), Diana Perry (UF), Gabrielle Love (UF), Brittany Hall-Scharf (FL SeaGrant), Robert Botta (UF), Kai Lorenzen (UF), Edward Camp (UF), Zachary Siders (UF)
 
 *shared first authorship
 

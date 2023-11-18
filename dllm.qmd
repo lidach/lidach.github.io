@@ -3,7 +3,7 @@ title: Performance of data-limited length-based methods
 css: style.css
 ---
 
-Collaborators: Tobias Mildenberger (DTU), Merrill Rudd (UW), Marc Taylor (Thünen), Jason Cope (NWFSC), Trevor Branch (UW), Matthias Wolff (ZMT), Moritz Stäbler (ZMT)
+Authors: Lisa Chong (ZMT), Tobias Mildenberger (DTU), Merrill Rudd (UW), Marc Taylor (Thünen), Jason Cope (NWFSC), Trevor Branch (UW), Matthias Wolff (ZMT), Moritz Stäbler (ZMT)
 
 ![photo credit: Tobias Mildenberger](./add_files/images/datalimitedfish.JPG){fig-align="center" width="400" height="300"}
 
