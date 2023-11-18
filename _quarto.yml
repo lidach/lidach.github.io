@@ -7,7 +7,7 @@ website:
   favicon: /Users/lisa_chong/Library/CloudStorage/GoogleDrive-lisa.chong8594@gmail.com/My Drive/GitHub/lidach.github.io/add_files/Chong_logo.jpg
   page-navigation: true
   navbar:
-    logo: /add_files/Chong_logo.jpeg
+    logo: /add_files/images/Chong_logo.jpeg
     left:
       - index.qmd
       - text: Research
@@ -21,7 +21,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: style.css
 
 editor: visual
 
