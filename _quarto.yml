@@ -9,8 +9,7 @@ website:
   navbar:
     logo: /add_files/Chong_logo.jpeg
     left:
-      # - index.qmd
-      - about.qmd
+      - index.qmd
       - text: Research
         menu:
           - text: Data-limited length-based methods

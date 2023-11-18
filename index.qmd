@@ -1,5 +1,34 @@
 ---
-title: "Home"
-fontsize: 18pt
-
+title: "About"
+about:
+    template: trestles
+    image: ./add_files/images/me.jpg
+    image-width: 10em
+    links:
+        - icon: github
+          text: Github
+          href: https://github.com/lidach
+        - icon: google scholar
+          text: Google Scholar
+          href: https://scholar.google.com/citations?user=p5STazoAAAAJ&hl=en&oi=ao
+        - icon: envelope
+          text: Email
+          href: mailto:chonglis@msu.edu
+format:
+  html:
+    page-layout: full
 ---
+
+<div>
+
+I am a Research Associate (Postdoc) at the Quantitative Fisheries Center ([QFC](https://www.canr.msu.edu/qfc/)) & Michigan State University. I consider myself a quantitative fisheries ecologist. Some of my research interests and expertise include stock assessment, simulation modeling, fish population dynamics, socio-ecological modeling, management strategy evaluation, and assessment of harvest regulations.
+
+## Education
+
+University of Florida \| Gainesville, FL Ph.D. in Fisheries and Aquatic Sciences \| 2023
+
+Universität Bremen\| Bremen, Germany M.S. in International Studies in Aquatic Tropical Ecology \| 2018
+
+State University of New York at Stony Brook \| Stony Brook, NY B.S. in Marine Vertebrate Biology \| 2016
+
+</div>
