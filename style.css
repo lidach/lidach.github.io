@@ -1,0 +1,11 @@
+/* css styles */
+
+p {
+  font-family: verdana;
+  font-size: 17px;
+}
+
+figcaption {
+    margin: auto;
+    text-align: center;
+  }

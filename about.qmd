@@ -2,12 +2,12 @@
 title: "About"
 about:
     template: trestles
-    image: ./add_files/me.jpg
+    image: ./add_files/images/me.jpg
     image-width: 10em
     links:
         - icon: github
           text: Github
-          href: github.com/lidach
+          href: https://github.com/lidach
         - icon: google scholar
           text: Google Scholar
           href: https://scholar.google.com/citations?user=p5STazoAAAAJ&hl=en&oi=ao

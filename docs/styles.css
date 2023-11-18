@@ -11,3 +11,8 @@ p {
     <div class="g-col-4">.g-col-4</div>
   </div>
 </div>
+
+.figcaption {
+  margin: auto;
+  text-align: center;
+}
