@@ -30,7 +30,7 @@ Authors: Lisa Chong (Fisheries and Aquatic Sciences), Angela Collins (Florida Se
 
 This four-part series provides an overview of Florida's artificial reefs for decision-makers, such as local government officials, management agency personnel, artificial reef manufacturers, and extension agents. The publications describe, summarize, and explain scientific information about artifical reefs and break up the topics for easy reading and comprehension.
 
-![The reasons why artificial reefs are built. Artificial reefs are typically built to increase habitat and recreational opportunities, which can help fish populations by affecting vital demographic rates of growth, reproduction, and/or survival and by providing food and shelter. Scientists conduct research on these topics to gain a better understanding of the impacts of artificial reefs](./add_files/images/ar_ses_fig3.png){fig-align="center" width="450" height="350"}
+![The reasons why artificial reefs are built. Artificial reefs are typically built to increase habitat and recreational opportunities, which can help fish populations by affecting vital demographic rates of growth, reproduction, and/or survival and by providing food and shelter. Scientists conduct research on these topics to gain a better understanding of the impacts of artificial reefs](./add_files/images/ar_ses_fig3.jpg){fig-align="center" width="450" height="350"}
 
 [Part 1](https://edis.ifas.ufl.edu/publication/FR450) describes why artifical reefs are built in Florida. It serves as a primer for the rest of the series.
 

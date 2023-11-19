@@ -14,17 +14,21 @@ website:
         menu:
           - text: Data-limited length-based methods
             href: dllm.qmd
-          - text: Bay scallop simulation
+          - text: Florida bay scallop simulation
             href: scallop.qmd
           - text: Artificial reefs in socio-ecological fisheries
             href: ar_ses.qmd
+          - text: Florida Largemouth Bass stocking simulation (in progress)
           - text: Artificial reef simulation models (in progress)
+          - text: Gulf of Mexico red snapper (in progress)
+          - text: Lake Whitefish stock assessment (in progress)
       - cv.qmd
         
 format:
-  html:
-    theme: cosmo
-    css: style.css
+  html: 
+    theme:
+      light: [cosmo, style.scss, light.scss]
+      dark: [cosmo, style.scss, dark.scss]
 
 editor: visual
 

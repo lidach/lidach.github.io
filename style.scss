@@ -1,0 +1,13 @@
+/*-- scss:defaults --*/
+
+$body-bg: $col1;
+$body-color: $col2;
+
+/*-- scss:rules --*/
+p {
+    font-size: 17px;
+}
+a {
+    color: $col3;
+    text-decoration: none;
+}
