@@ -1,0 +1,13 @@
+---
+title: "Simulation of artificial reefs in socio-ecological recreational fisheries"
+css: style.css
+toc: true
+---
+
+One component of my dissertation was to evaluate and simulate artificial reefs in socio-ecological recreational fisheries systems. This resulted in several pieces of research projects listed below.
+
+## Evaluating the effects of artificial reefs on recreational fisheries using a spatially explicit social-ecological modeling approach
+
+
+## AR MSE
+

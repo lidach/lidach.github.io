@@ -16,6 +16,9 @@ website:
             href: dllm.qmd
           - text: Bay scallop simulation
             href: scallop.qmd
+          - text: Artificial reefs in socio-ecological fisheries
+            href: ar_ses.qmd
+          - text: Artificial reef simulation models (in progress)
       - cv.qmd
         
 format:
