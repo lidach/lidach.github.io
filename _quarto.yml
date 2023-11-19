@@ -22,6 +22,7 @@ website:
           - text: Artificial reef simulation models (in progress)
           - text: Gulf of Mexico red snapper (in progress)
           - text: Lake Whitefish stock assessment (in progress)
+      - resources.qmd
       - cv.qmd
         
 format:

@@ -1,0 +1,18 @@
+---
+title: "Resources"
+css: style.css
+---
+
+I am a firm believer of open source science. I also have a bad memory so I need a place where I can store notes and code. Here, I provide some resources for code and notes that I created or borrowed (based on courses I've taken previously or from other people), which will cover topics related to quantitative fisheries (e.g., statistics, population dynamics, stock assessment, simulation, etc.).
+
+R code that I use often: 
+
+- [Collection of additional functions for plotting or modeling](https://github.com/lidach/addtools)
+
+```{r, eval = FALSE}
+devtools::install_github("lidach/addtools")
+```
+
+Quantitative fisheries notes and models: 
+
+- [Collection of quantitative fisheries models and functions](https://lidach.github.io/quant-fish/) ** in progress - will break into sections (Concepts, population dynamics, statistics, etc.)
