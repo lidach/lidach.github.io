@@ -4,7 +4,7 @@ project:
 
 website:
   title: Lisa Chong
-  favicon: /Users/lisa_chong/Library/CloudStorage/GoogleDrive-lisa.chong8594@gmail.com/My Drive/GitHub/lidach.github.io/add_files/Chong_logo.jpg
+  favicon: ./add_files/Chong_logo.jpg
   page-navigation: true
   navbar:
     logo: /add_files/images/Chong_logo.jpeg
