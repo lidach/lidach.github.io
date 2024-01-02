@@ -18,9 +18,10 @@ website:
             href: scallop.qmd
           - text: Artificial reefs in socio-ecological fisheries
             href: ar_ses.qmd
+          - text: Gulf of Mexico red snapper
+            href: rs.qmd
           - text: Florida Largemouth Bass stocking simulation (in progress)
           - text: Artificial reef simulation models (in progress)
-          - text: Gulf of Mexico red snapper (in progress)
           - text: Lake Whitefish stock assessment (in progress)
       - resources.qmd
       - cv.qmd

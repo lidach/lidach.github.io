@@ -1,0 +1,28 @@
+---
+title: "Gulf of Mexico Red Snapper"
+css: style.css
+toc: true
+---
+
+The case study for my dissertation was the Gulf of Mexico red snapper (*Lutjanus campechanus*).
+
+![Red snapper (Lutjanus campechanus)](./add_files/images/rs_fig1.jpg){fig-align="center" width="250" height="150"}
+
+
+## History of the Gulf of Mexico Red Snapper
+
+*in progress*
+
+
+
+## Recreational Angler Preferences for, and Potential Effort Responses, to Different Red Snapper Management Approaches
+
+Authors: Lisa Chong (UF), Elizabeth Pienaar (UGA), Robert Ahrens (PIFSC), and Edward Camp (UF).
+
+The Gulf of Mexico red snapper fishery is one of the most popular but contentious fisheries in the region as it has been experiencing more restrictive regulations and slow progress towards rebuilding the population. However, current management measures have failed to reduce angler effort and fishing mortality. The management of this fishery likely needs alternative approaches that can better balance conservation of the red snapper population and angler satisfaction.
+
+We proposed a rights-based approach, the harvest tag system, as an alternative management regime. A harvest tag system may ease derby-style fishing provide more equitable access to the recreational fishery. In 2019/20, we surveyed recreational anglers who fish in Florida with private boats. We conducted stated preference discrete choice experiments to determine recreational anglers' preferences for and potential effort responses to the current management system (bag, size, season limit) and a potential harvest tag system.
+
+Respondents were heterogeneous for their preferences for harvest tags versus the current management systems. Our finding suggested that more restrictive management regulations will not assure angler satisfaction and derby-style fishing will likely persist. The harvest tag system may result in higher discard mortality; however, this approach will allow managers to better manage the number of anglers in the fishery and rebuild the stock. This study emphasizes the importance of understanding angler perceptions, attitudes, and behaviors in current regulatory actions and future changes as the success of fisheries management is connected to anglers understanding management motivations.
+
+![Visual representation of the distribution of the responses to different options for managing the red snapper fishery, including various size limits, bag limits, season lengths, and a harvest tag option. The harvest tag option includes no size limit and season length and 10 red snapper/angler/year. “Strongly oppose” = red, “oppose” = light red, “neutral” = grey, “support” = light blue, and “strongly support” = blue (n = 766).](./add_files/images/rs_fig2.jpeg){fig-align="center" width="550" height="450"}
