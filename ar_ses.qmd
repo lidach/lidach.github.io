@@ -18,6 +18,8 @@ We conducted a literature review to catalog effects and feedbacks of artificial 
 
 ![Summary figure of the components of a social-ecological system with artificial reefs. The main components are fish, fisher, habitat and managers, of which are affected by the deployment of artificial reefs. We define "managers" as someone responsible for overseeing the management and conservation of resources, including fish populations, fishers, and their habitats. The direct effects (regular text), indirect effects (italicized text), and direct and indirect effects (italicized and bolded text) are shown with the black arrow. The feedbacks (blue text) are shown with the dotted blue arrow, which include (1) fish-to-fish, (2) habitat-to-fish, (3) fish-to-fisher, and (4) habitat-to-fish-to-fishers-to-manager.](./add_files/images/ar_ses_fig2.jpg){fig-align="center" width="600" height="500"}
 
+Now published: <https://doi.org/10.1111/faf.12809>
+
 ## University of Florida Extension Documents
 
 EDIS is the Electronic Data Information Source of UF/IFAS Extension, a collection of information on topics. These are developed in support of Extension program area goals and objectives and published by UF/IFAS academic departments.
@@ -51,5 +53,3 @@ This four-part series provides an overview of Florida's artificial reefs for dec
 [An update on Florida's artificial reefs: recent research and what it means for Florida](https://edis.ifas.ufl.edu/publication/FA245): This summarizes peer reviewed publications on key topics in artificial reefs literature, including marine ecology, fisher behavior, design, and monitoring.
 
 ![Photo credit: Michael Dickson](./add_files/images/ar_ses_fig6.jpeg){fig-align="center" width="450" height="350"}
-
-Now published: <https://doi.org/10.1111/faf.12809>

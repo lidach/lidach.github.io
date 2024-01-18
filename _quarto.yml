@@ -12,14 +12,15 @@ website:
       - index.qmd
       - text: Research
         menu:
-          - text: Data-limited length-based methods
+          - text: Data-limited stock assessment
             href: dllm.qmd
-          - text: Florida bay scallop simulation
-            href: scallop.qmd
           - text: Artificial reefs in socio-ecological fisheries
             href: ar_ses.qmd
+          - text: Florida bay scallop simulation
+            href: scallop.qmd
           - text: Gulf of Mexico red snapper
             href: rs.qmd
+          - text: Gulf of Mexico greater amberjack (in progress)
           - text: Florida Largemouth Bass stocking simulation (in progress)
           - text: Artificial reef simulation models (in progress)
           - text: Lake Whitefish stock assessment (in progress)
