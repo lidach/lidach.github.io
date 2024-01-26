@@ -23,49 +23,55 @@ urlcolor: blue
 
 # Current Position
 
-***Michigan State University*** \hfill East Lansing, Michigan
+*Michigan State University - East Lansing, Michigan* \hfill 2023 - present
 
-Research Associate \hfill 2023 - present
+Research Associate (Postdoc)
+
+\vspace{4pt}
 
 # Education
 
-***University of Florida***\hfill Gainesville, Florida
+*University of Florida - Gainesville, Florida* \hfill 2019 - 2023
 
-Ph.D. in Fisheries and Aquatic Sciences \hfill 2019 - 2023
+Ph.D. in Fisheries and Aquatic Sciences
 
--   Dissertation: *"*Evaluating the socioecological effects and feedbacks of artificial reefs for recreational fisheries and the Gulf of Mexico red snapper"
+-   Dissertation: "Evaluating the socioecological effects and feedbacks of artificial reefs for recreational fisheries and the Gulf of Mexico red snapper"
 
-***University of Florida*** \hfill Gainesville, Florida
+*University of Florida - Gainesville, Florida* \hfill 2018 - 2020
 
-Quantitative Fisheries Graduate Certificate \hfill 2018 - 2020
+Quantitative Fisheries Graduate Certificate
 
-***Universität Bremen***\hfill Bremen, Germany
+*Universität Bremen - Bremen, Germany* \hfill 2016-2018
 
-M.S. in International Studies in Aquatic Tropical Ecology \hfill 2016-2018
+M.S. in International Studies in Aquatic Tropical Ecology
 
 -   Thesis: "Performance evaluation of data-poor, length-based stock assessment methods"
 
-***State University of New York at Stony Brook*** \hfill Stony Brook, New York
+*State University of New York at Stony Brook - Stony Brook, New York* \hfill 2012 - 2016
 
-B.S. in Marine Vertebrate Biology \hfill 2012 - 2016
+B.S. in Marine Vertebrate Biology
+
+\vspace{4pt}
 
 # Experience
 
-***University of Florida*** \hfill Gainesville, Florida
+*University of Florida - Gainesville, Florida* \hfill 2019 - 2023
 
-Graduate Assistant \hfill 2019 - 2023
+Graduate Assistant
 
-***Leibniz Center for Marine Tropical Research*** \hfill Bremen, Germany
+*Leibniz Center for Marine Tropical Research, Bremen, Germany* \hfill 2018-2019
 
-Guest Scientist \hfill 2018-2019
+Guest Scientist
 
-***Leibniz Center for Marine Tropical Research*** \hfill Bremen, Germany
+*Leibniz Center for Marine Tropical Research, Bremen, Germany* \hfill 2018
 
-Data Analyst \hfill 2018
+Data Analyst
 
-***State University of New York at Stony Brook*** \hfill Stony Brook, New York
+*State University of New York at Stony Brook - Stony Brook, New York* \hfill 2016
 
-Undergraduate Research Assistant \hfill 2016
+Undergraduate Research Assistant
+
+\vspace{4pt}
 
 # Publications
 
@@ -96,6 +102,8 @@ Undergraduate Research Assistant \hfill 2016
 -   **Chong L**, Mille K, Abeels HA, Blanco V, and Camp EV. (2021). [Artificial reefs: how do they affect people?](https://edis.ifas.ufl.edu/publication/FA231). EDIS Document. Fisheries and Aquatic Sciences Department, UF/IFAS Extension, Gainesville, FL.
 
 -   Nordhaus I, Siriwardane-de Zoysa R, Gillis LG, Yin Chee S, **Chong L**, Firth L, Han A, Kwang SY, Stiepani J, Sturgeon A, Rajindran S, Yeok, FS. (2019). [The future of mangroves in Penang, Malaysia: Bridging science, policy, and perspectives](https://www.leibniz-zmt.de/images/content/pdf/Policy_Briefs/2019-01-The-Future-of-Mangroves-in-Penang-Malaysia-Bridging-Science-Policy-and-Perspectives.pdf). ZMT Policy Brief.
+
+\vspace{4pt}
 
 # Talks
 
@@ -143,6 +151,8 @@ Undergraduate Research Assistant \hfill 2016
 
 -   Advanced school on multispecies modelling approaches for ecosystem based marine resource management in the Mediterranean Sea, Italy. July 30 - August 3, 2018. Workshop.
 
+\vspace{4pt}
+
 # Scholarships and Awards
 
 -   Florida Chapter of American Fisheries Society Student Travel Award \hfill 2023
@@ -157,9 +167,11 @@ Undergraduate Research Assistant \hfill 2016
 
 -   UF SFRC/FFGS Travel Grant \hfill 2019; 2023
 
+\vspace{4pt}
+
 # Additional Experience
 
--   Manuscript reviewer (*8 manuscripts - Fisheries Research, Bulletin for Marine Science, ICES Journal of Marine Science, Ecological Modelling, Marine and Freshwater Research*)
+-   Manuscript reviewer (*9 manuscripts - Fisheries Research, Bulletin for Marine Science, ICES Journal of Marine Science, Ecological Modelling, Marine and Freshwater Research*)
 
 -   Research Assistant, Research Track Working Group: 2022 Improving Assessments for Black Sea Bass \hfill 2022 - 2023
 
@@ -174,6 +186,8 @@ Undergraduate Research Assistant \hfill 2016
 -   SFRC Fall 2020 Grad Gathering Organizing Team \hfill 2020
 
 -   Teaching Assistant at Universität Bremen \hfill 2018
+
+\vspace{4pt}
 
 # Skills
 
