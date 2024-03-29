@@ -5,7 +5,7 @@ css: style.css
 
 Authors: Lisa Chong (ZMT), Tobias Mildenberger (DTU), Merrill Rudd (UW), Marc Taylor (Thünen), Jason Cope (NWFSC), Trevor Branch (UW), Matthias Wolff (ZMT), Moritz Stäbler (ZMT)
 
-![photo credit: Tobias Mildenberger](/add_files/images/datalimitedfish.jpg){fig-align="center" width="400" height="300"}
+![photo credit: Tobias Mildenberger](/add_files/images/datalimitedfish.JPG){fig-align="center" width="400" height="300"}
 
 One of the hardest problems in fisheries is to assess the status of fisheries that are data poor or limited. Numerous data-limited length-based methodologies have been developed and applied to report on the regional status of fisheries across many stocks, including Thompson and Bell (TB), length-based spawning potential ratio (LBSPR), length-based integrated mixed effects (LIME), and length-based risk analysis (LBRA). While all four methods use length-data as a primary input, estimates of stock status might vary due to differing model assumptions. The performance of these methods needs to be tested to determine which are the most accurate in different circumstances.
 
