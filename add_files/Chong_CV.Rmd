@@ -75,9 +75,9 @@ Undergraduate Research Assistant
 
 # Publications
 
--   **Chong L**, Pienaar E, Ahrens R, and Camp E. (in review). Recreational Angler Preferences for, and Potential Effort Responses, to Different Red Snapper Management Approaches.
+-   **Chong L**, Pienaar E, Ahrens R, and Camp E. (2024). [Recreational Angler Preferences for, and Potential Effort Responses, to Different Red Snapper Management Approaches](https://conbio.onlinelibrary.wiley.com/doi/10.1111/csp2.13149). Conservation Science and Practice.
 
--   **Chong L,** Siders Z, Lorenzen K, Ahrens R, Camp E. (2023). [Global synthesis of effects and feedbacks from artificial reefs on socioecological systems in recreational fisheries](https://doi.org/10.1111/faf.12809). Fish and Fisheries.
+-   **Chong L,** Siders Z, Lorenzen K, Ahrens R, Camp E. (2023). [Global synthesis of effects and feedbacks from artificial reefs on socioecological systems in recreational fisheries](https://doi.org/10.1111/faf.12809). Fish and Fisheries, 25(2), 303-319.
 
 -   **Chong L\***, Fisch N\*, Borsum JS, Granneman J, Perry D, Love G, Hall-Schard B, Botta R, Lorenzen K, Camp E, Siders Z. (2023). [Examining the performance of alternative harvest regulations for short-lived taxa: A case study of Florida Bay scallop management](https://doi.org/10.1016/j.fishres.2023.106683). Fisheries Research, 263, 106683. [\*Co-first author]
 
@@ -141,15 +141,15 @@ Undergraduate Research Assistant
 
 ## Workshops
 
-- Advanced stock assessment with RTMB. 26 February - 1 March, 2024. Workshop.
+-   Advanced stock assessment with RTMB. 26 February - 1 March, 2024. Workshop.
 
 -   ICES Methods Working Group. November 13-17, 2023. Workshop.
 
 -   Workshop 11 on the Development of Quantitative Assessment Methodologies based on Life-history traits, exploitation characteristics, and other relevant parameters for data-limited stocks (WKLIFE XI). January 16-20, 2023. Workshop.
 
--   Greater Amberjack Visioning Insights Workshop. New Orleans, Louisiana. August 8-10, 2022. Workshop. 
+-   Greater Amberjack Visioning Insights Workshop. New Orleans, Louisiana. August 8-10, 2022. Workshop.
 
-- Decision Analysis in Natural Resource Management Workshop. University of Washington. September 21-25, 2021. Workshop.
+-   Decision Analysis in Natural Resource Management Workshop. University of Washington. September 21-25, 2021. Workshop.
 
 -   Numerical Computing for the Natural Resources TMB Workshop. University of Washington. September 23-28, 2020. Virtual. Workshop.
 
@@ -201,27 +201,35 @@ Undergraduate Research Assistant
 
 \vspace{4pt}
 
+```{=html}
 <!-- # Relevant Course Work
 
 <!-- ## Key Graduate Course Work -->
+```
 <!-- *Introduction to Fisheries Biology, Introduction to Systems Analysis, Experimental Design and Data Analysis, Population Dynamics and Stock Assessment, Ecological Modelling (UW; audit), U.S. Fisheries Management -->
+
 <!-- and Policy (UW; audit), Fish Population Dynamics, Fisheries Management, Fisheries and Aquaculture: An Economics Perspective, Ecological Dynamics and Forecasting, Advanced Quantitative Fisheries Stock Assessment, Numerical Computing for the Natural Resources (UW; credit), Decision Analysis in Natural Resource Management (UW; audit), Stock Assessment Practicum (advised by Dr. Gavin Fay)* -->
 
 <!-- ## Key Undergraduate Course Work -->
-<!-- *Chemistry 1/2 and associated labs, Organic Chemistry 1, Calculus A/B, Statistics 1, Biology 1-3 and associated labs, Physics 1-2 and associated labs, Ichthyology, Marine Ecology, Principles in Fishery Biology and Management* --> 
+
+<!-- *Chemistry 1/2 and associated labs, Organic Chemistry 1, Calculus A/B, Statistics 1, Biology 1-3 and associated labs, Physics 1-2 and associated labs, Ichthyology, Marine Ecology, Principles in Fishery Biology and Management* -->
 
 <!-- # References -->
+
 <!-- Edward Camp, Assistant Professor, University of Florida  -->
 
 <!-- \vspace{-1.5mm} -->
+
 <!-- 401-862-7702 - edvcamp@ufl.edu -->
 
 <!-- Kai Lorenzen, Professor, University of Florida -->
 
 <!-- \vspace{-1.5mm} -->
+
 <!-- 352-213-7662 - klorenzen@ufl.edu -->
 
 <!-- Robert Ahrens, Research Fish Biologist, Pacific Islands Fisheries Science Center -->
 
 <!-- \vspace{-1.5mm} -->
+
 <!-- 808-445-7408 - robert.ahrens@noaa.gov -->

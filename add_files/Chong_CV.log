@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.2)  29 MAR 2024 00:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.2)  4 JUN 2024 00:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -492,12 +492,12 @@ Here is how much of TeX's memory you used:
  35198 multiletter control sequences out of 15000+600000
  597969 words of font info for 95 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 72i,11n,79p,1197b,517s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,11n,79p,1197b,515s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <c:/Users/Lisa/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk><c:/Users/Lisa/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/Lisa/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/Lisa/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb><c:/Users/Lisa/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/Lisa/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb><c:/Users/Lisa/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/Lisa/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Chong_CV.pdf (5 pages, 118435 bytes).
+Output written on Chong_CV.pdf (5 pages, 118619 bytes).
 PDF statistics:
- 160 PDF objects out of 1000 (max. 8388607)
- 122 compressed objects within 2 object streams
+ 162 PDF objects out of 1000 (max. 8388607)
+ 124 compressed objects within 2 object streams
  16 named destinations out of 1000 (max. 500000)
  81 words of extra memory for PDF output out of 10000 (max. 10000000)
 

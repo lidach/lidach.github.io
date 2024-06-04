@@ -8,10 +8,6 @@ The case study for my dissertation was the Gulf of Mexico red snapper (*Lutjanus
 
 ![Red snapper (Lutjanus campechanus)](/add_files/images/rs_fig1.jpg){fig-align="center" width="250" height="150"}
 
-## History of the Gulf of Mexico Red Snapper
-
-*in progress*
-
 ## Recreational Angler Preferences for, and Potential Effort Responses, to Different Red Snapper Management Approaches
 
 Authors: Lisa Chong (UF), Elizabeth Pienaar (UGA), Robert Ahrens (PIFSC), and Edward Camp (UF).
@@ -24,3 +20,4 @@ Respondents were heterogeneous for their preferences for harvest tags versus the
 
 ![Visual representation of the distribution of the responses to different options for managing the red snapper fishery, including various size limits, bag limits, season lengths, and a harvest tag option. The harvest tag option includes no size limit and season length and 10 red snapper/angler/year. "Strongly oppose" = red, "oppose" = light red, "neutral" = grey, "support" = light blue, and "strongly support" = blue (n = 766).](/add_files/images/rs_fig2.jpeg){fig-align="center" width="550" height="450"}
 
+Now published: <https://conbio.onlinelibrary.wiley.com/doi/10.1111/csp2.13149>
