@@ -1,18 +1,16 @@
 ---
-title: "Gulf of Mexico red snapper"
-css: style.css
-toc: true
+title: "Recreational Angler Preferences for, and Potential Effort Responses, to Different Red Snapper Management Approaches"
+categories: [recreational, red snapper, economics, angler behavior]
+image: /add_files/images/rs_fig1.jpg
+freeze: true
+slug: rs-spce
 ---
-
-The case study for my dissertation was the Gulf of Mexico red snapper (*Lutjanus campechanus*).
-
-![Red snapper (Lutjanus campechanus)](/add_files/images/rs_fig1.jpg){fig-align="center" width="250" height="150"}
-
-## Recreational Angler Preferences for, and Potential Effort Responses, to Different Red Snapper Management Approaches
 
 Authors: Lisa Chong (UF), Elizabeth Pienaar (UGA), Robert Ahrens (PIFSC), and Edward Camp (UF).
 
 The Gulf of Mexico red snapper fishery is one of the most popular but contentious fisheries in the region as it has been experiencing more restrictive regulations and slow progress towards rebuilding the population. However, current management measures have failed to reduce angler effort and fishing mortality. The management of this fishery likely needs alternative approaches that can better balance conservation of the red snapper population and angler satisfaction.
+
+![Red snapper (Lutjanus campechanus)](/add_files/images/rs_fig1.jpg){fig-align="center" width="250" height="150"}
 
 We proposed a rights-based approach, the harvest tag system, as an alternative management regime. A harvest tag system may ease derby-style fishing provide more equitable access to the recreational fishery. In 2019/20, we surveyed recreational anglers who fish in Florida with private boats. We conducted stated preference discrete choice experiments to determine recreational anglers' preferences for and potential effort responses to the current management system (bag, size, season limit) and a potential harvest tag system.
 

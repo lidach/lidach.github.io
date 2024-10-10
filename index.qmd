@@ -21,7 +21,7 @@ format:
 
 <div>
 
-I am a Research Associate (Postdoc) at the Quantitative Fisheries Center ([QFC](https://www.canr.msu.edu/qfc/)) & Michigan State University. I consider myself a quantitative fisheries ecologist. Some of my research interests and expertise include stock assessment, simulation modeling, fish population dynamics, socio-ecological modeling, management strategy evaluation, and assessment of harvest regulations.
+I am a Assistant Research Professor at the Quantitative Fisheries Center ([QFC](https://www.canr.msu.edu/qfc/)) & Michigan State University. I consider myself a quantitative fisheries scientist. The core of my research is the application of quantitative methods to 1) evaluate the effectiveness of stock assessment tools and management strategies, 2) examine the interactions between ecological and social systems within fisheries systems, and 3) explore how to manage fish populations in the face of evolving conditions.
 
 ## Education
 

@@ -1,6 +1,9 @@
 ---
 title: "Examining the performance of alternative harvest regulations for short-lived taxa: A case study of Florida Bay scallop management"
-css: style.css
+categories: [harvest policy evaluation, simulation, bay scallop]
+image: /add_files/images/scallop_fig3.jpeg
+freeze: true
+slug: ar-ses
 ---
 
 Authors: Lisa Chong\* (UF), Nicholas Fisch\* (SEFSC), John Scott Borsum (UF), Jennifer Granneman (FWC), Diana Perry (UF), Gabrielle Love (UF), Brittany Hall-Scharf (FL SeaGrant), Robert Botta (UF), Kai Lorenzen (UF), Edward Camp (UF), Zachary Siders (UF)

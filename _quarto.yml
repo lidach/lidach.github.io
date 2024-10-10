@@ -10,25 +10,18 @@ website:
     logo: /add_files/images/Chong_logo.jpeg
     left:
       - index.qmd
+      - text: Stock assessment
+        menu: 
+          - text: Lake Whitefish
+          - text: Yellow Perch
       - text: Research
-        menu:
-          - text: Data-limited stock assessment
-            href: research/dllm.qmd
-          - text: Artificial reefs in socio-ecological fisheries
-            href: research/ar_ses.qmd
-          - text: Florida bay scallop simulation
-            href: research/scallop.qmd
-          - text: Gulf of Mexico red snapper
-            href: research/rs.qmd
-          - text: Gulf of Mexico greater amberjack (in progress)
-          - text: Florida Largemouth Bass stocking simulation (in progress)
-          - text: Artificial reef simulation models (in progress)
-          - text: Lake Whitefish stock assessment (in progress)
+        href: research.qmd
       - resources.qmd
       - cv.qmd
         
 format:
   html: 
+    css: style.css
     theme:
       light: [cosmo, style.scss, light.scss]
       dark: [cosmo, style.scss, dark.scss]

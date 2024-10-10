@@ -1,6 +1,9 @@
 ---
-title: Performance evaluation of data-limited, length-based stock assessment methods
-css: style.css
+title: "Performance evaluation of data-limited, length-based stock assessment methods"
+categories: [data-limited, stock assessment]
+image: /add_files/images/datalimitedfish.JPG
+freeze: true
+slug: dllm
 ---
 
 Authors: Lisa Chong (ZMT), Tobias Mildenberger (DTU), Merrill Rudd (UW), Marc Taylor (Thünen), Jason Cope (NWFSC), Trevor Branch (UW), Matthias Wolff (ZMT), Moritz Stäbler (ZMT)
