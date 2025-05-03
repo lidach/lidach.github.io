@@ -2,11 +2,11 @@
   {
     "listing": "/research.html",
     "items": [
-      "/research/rs.html",
       "/research/dllm.html",
+      "/research/ar_ses.html",
+      "/research/rs.html",
       "/research/scallop.html",
-      "/research/ar_fl.html",
-      "/research/ar_ses.html"
+      "/research/ar_fl.html"
     ]
   }
 ]

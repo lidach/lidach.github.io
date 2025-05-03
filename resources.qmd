@@ -15,4 +15,4 @@ devtools::install_github("lidach/addtools")
 
 Quantitative fisheries notes and models: 
 
-- [Collection of quantitative fisheries models and functions](https://lidach.github.io/quant-fish/) ** in progress - will break into sections (Concepts, population dynamics, statistics, etc.)
+- [Collection of quantitative fisheries notes](https://qfc-assessment.github.io/tutorials/) ** in progress 
