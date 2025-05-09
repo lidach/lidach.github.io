@@ -1,0 +1,203 @@
+---
+title: CV
+format:
+  quarto-cv-pdf: default
+author: Lisa Chong
+date: last-modified
+address: "Quantitative Fisheries Center · Michigan State University · 375 Wilson Rd. Room 100 · East Lansing, Michigan 48824"
+email: chonglis@msu.edu
+fontsize: 11pt
+#fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
+#mainfont: Ubuntu # if you want to use a different locally installed font
+#CJKmainfont: Noto Sans CJK JP # locally installed Asian character font, must use with xelatex
+github: lidach
+#osf: ymqui # osf five character id
+#twitter: twitter # twitter handle
+web: lidach.github.io/
+fontawesome: yes
+nocite: '@*'
+validate-yaml: false
+csl: apa-cv.csl
+---
+
+# Current employment
+
+Assistant Research Professor \hfill 2024-present\
+Quantitative Fisheries Center\
+Department of Fisheries and Wildlife\
+Michigan State University
+
+# Previous employment
+Research Associate (Postdoc) \hfill 2023-2024\
+Quantitative Fisheries Center\
+Department of Fisheries and Wildlife\
+Michigan State University
+
+# Education
+
+University of Florida, Ph.D. Fisheries and Aquatic Sciences \hfill 2023
+
+Universität Bremen, M.Sc. International Studies in Aquatic Tropical Ecology \hfill 2018
+
+State University of New York at Stony Brook, B.Sc. Marine Vertebrate Biology \hfill 2016
+
+# Technical expertise
+
+*Research*: Fish population dynamics, fisheries stock assessment, hierarchical modeling, simulation modeling, harvest control rule design, management strategy evaluation, statistics
+
+*Programming and scientific computing*: R, C++, TMB, RTMB, ADMB, Stock Synthesis, Quarto, LaTex, data visualization, parallel computing, reproducible workflows with Quarto and Git/GitHub, debugging, Linux systems
+
+# Stock assessment consultation
+
+I am part of a small team at the QFC (with Drs. Chris Cahill and Travis Brenden) that supports the development of revised assessment approaches, standardizes base code, translates statistical catch-at-age models from ADMB to RTMB, restructures data inputs, facilitates communication on data and assessment challenges and issues, and provides stock assessment advice to agency biologists:
+
+Lake Erie - Yellow Perch. \hfill 2023 - present.
+
+1836 Treaty Waters - Lake Whitefish. \hfill 2023 - present. 
+
+Wisconsin Lake Michigan Lake WhiteFish. \hfill 2024 - present.
+
+1842 Treaty Waters - Lake Whitefish. \hfill 2023 - 2024. 
+
+I list stock assessment related projects I was involved with outside of the QFC:
+
+*Reserach Track Working Group: 2022 Improving Assessments for Black Sea Bass*. \hfill 2022 - 2023. 
+  
+  - Research assistant: assisted in the development of the Stock Synthesis model, one of the candidate models for the Research Track Stock Assessment.
+
+*Gulf of Mexico and South Atlantic Greater Amberjack Research Program*. 2020 - 2022. 
+  
+  - Visioning team member: provided research recommendations (based on existing information and consultation of stakeholders and independent experts) for the steering committee, which assisted in the development of the Request for Proposals (RFPs)
+
+# Awards
+
+UF IFAS travel scholarship \hfill 2023
+
+GCFI Ron Schmied Travel Award recipient \hfill 2021
+
+ICES Early Career Support for World Fisheries Congress \hfill 2021
+
+AIRFB WF Thompson Best Student Paper Award \hfill 2020
+
+UF SRFC/FFGS Travel Grant \hfill 2019; 2023
+
+# Peer-review publications
+
+*Chong L*, Pienaar E, Ahrens R, and Camp E. (2024). Recreational Angler Preferences for, and Potential Effort Responses, to Different Red Snapper Management Approaches. Conservation Science and Practice.
+
+*Chong L*, Siders Z, Lorenzen K, Ahrens R, Camp E. (2023). Global synthesis of effects and feedbacks from artificial reefs on socioecological systems in recreational fisheries. Fish and Fisheries, 25(2), 303-319.
+
+*Chong L*\*, Fisch N*, Borsum JS, Granneman J, Perry D, Love G, Hall-Schard B, Botta R, Lorenzen K, Camp E, Siders Z. (2023). Examining the performance of alternative harvest regulations for short-lived taxa: A case study of Florida Bay scallop management. Fisheries Research, 263, 106683. [*Co-first author]
+
+*Chong L*, Mildenberger TK, Rudd MB, Taylor MH, Cope JM, Branch TA, Wolff M, Stäbler M. (2020). Performance evaluation of data-limited, length-based stock assessment methods. ICES Journal of Marine Science, 77(1), 97-108. **Editor's choice and AIRFB best student paper 2020**
+
+# Manuscripts and book chapters (in preparation)
+
+Chong et al. Nonstationary production dynamics drive the decline and collapse of Lake Whitefish in Lake Michigan. Target journal: Canadian Journal of Fisheries and Aquatic Sciences.
+
+Cahill et al. Jensen’s inequality systematically inflates Lake Erie Percid reference points. Target journal: Canadian Journal of Fisheries and Aquatic Sciences.
+
+Chong et al. Introduction to stock assessment: models, diagnostics, and uncertainty. Analysis of freshwater fisheries data, 2nd Edition. American Fisheries Society, Bethesda, Maryland.
+
+# Technical reports and outreach documents
+
+ICES. (2023). Eleventh Workshop on the Development of Quantitative Assessment Methodologies based on LIFE-history traits, exploitation characteristics, and other relevant parameters for data-limited stocks (WKLIFE XI). ICES Scientific Reports. 5:21. 74 pp.
+
+Camp EV, *Chong L*, Collins AB, Abeels H, Mille K, Hall-Scharf B, Zangroniz A, Jackson S, Krueger S, and Blanco V. (2022). An update on Florida’s Artificial Reefs: recent research and what it means for Florida. EDIS Document. Fisheries and Aquatic Sciences Department, UF/IFAS Extension, Gainesville, FL.
+
+*Chong L*, Collins AB, Abeels H, Braswell A, Zangroniz A, Ropicki A, Jackson S, and Camp EV. (2022). Artificial Reefs in Florida 101 – effects on fisheries: Part 4 of an Artificial Reef series. EDIS Document. Fisheries and Aquatic Sciences Department, UF/IFAS Extension, Gainesville, FL.
+
+*Chong L*, Collins AB, Abeels H, Braswell A, Zangroniz A, Ropicki A, Jackson S, and Camp EV. (2022). Artificial Reefs in Florida 101 – effects on fishers (and divers): Part 3 of an Artificial Reef series. EDIS Document. Fisheries and Aquatic Sciences Department, UF/IFAS Extension, Gainesville, FL.
+
+*Chong L*, Collins AB, Abeels H, Braswell A, Zangroniz A, Ropicki A, Jackson S, and Camp EV. (2022). Artificial Reefs in Florida 101 – effects on fish: Part 2 of an Artificial Reef series. EDIS Document. Fisheries and Aquatic Sciences Department, UF/IFAS Extension, Gainesville, FL.
+
+*Chong L*, Collins AB, Abeels H, Braswell A, Ropicki A, Jackson S, and Camp EV. (2022).
+Artificial Reefs in Florida 101 – why are they built? Part 1 of an Artificial Reef series. EDIS Document. Fisheries and Aquatic Sciences Department, UF/IFAS Extension, Gainesville, FL.
+
+Camp EV, *Chong L*, Collins AB, Sipos M, Mille K, Hall-Scharf B, Jackson S, Abeels H, Krueger S, and Blanco V. (2022). An update on Florida’s Artificial Reefs: recent deployments and trends. EDIS Document. Fisheries and Aquatic Sciences Department, UF/IFAS Extension, Gainesville, FL.
+
+*Chong L*, Mille K, Abeels HA, Blanco V, and Camp EV. (2021). Artificial reefs: how do
+they affect people?. EDIS Document. Fisheries and Aquatic Sciences Department, UF/IFAS
+Extension, Gainesville, FL.
+
+Nordhaus I, Siriwardane-de Zoysa R, Gillis LG, Yin Chee S, *Chong L*, Firth L, Han A, Kwang SY, Stiepani J, Sturgeon A, Rajindran S, Yeok, FS. (2019). The future of mangroves in Penang, Malaysia: Bridging science, policy, and perspectives. ZMT Policy Brief.
+
+# Presentations
+
+*Chong L* and Cahill CL. November 2024. Status of Stock Assessment and Training in the Great Lakes. ICES Methods Working Group. Copenhagen, Denmark. Virtual talk.
+
+*Chong L*, Cahill CL, and Brendent T. October 2024. Yellow Perch data overview and conflicts. Presentation to the Lake Erie Yellow Perch Task Group, Lake Erie Standing Technical Commitee, Lake Erie Committee, and Great Lakes Fishery Commission. Ann Arbor, Michigan.
+
+*Chong L* and Cahill CL. August 2024. QFC updates on stock assessments in RTMB for Lake Whitefish. Virtual presentation given to 1842 Treaty Waters stock assessment biologists. 
+
+*Chong L* and Cahill CL. February 2024. Status on Lake Whitefish fisheries and stock assessments in the 1836 Treaty Waters. Tuesday Inter-Lab Quantitative Seminar. East Lansing, Michigan. February 2024. 
+
+*Chong L*, Camp EV, and Lorenzen K. November 2023. Challenges in rebuilding the Gulf of Mexico greater amberjack: insights on recruitment, projections, and productivity shifts. ICES Methods Working Group. East Lansing, Michigan. 
+
+*Chong L*, Siders ZA, Karnauskas M, Lorenzen K, Ahrens R, and Camp EV. August 2023. Incorporating uncertainties about ecological and socioeconomic aspects to improve management and placement decisions of artificial reefs. American Fisheries Society Annual Meeting. Grand Rapids, Michigan. 
+
+*Chong L*, Pienaar EF, Ahrens RNM, and Camp EV. May 2023. Recreational Angler Preferences for, and Potential Effort Responses, to Different Red Snapper Management Approaches. 43rd Annual Meeting of the Florida Chapter of the American Fisheries Society. St. Augustine, Florida.
+
+*Chong L*, Siders ZA, Karnauskas M, Lorenzen K, Ahrens R, and Camp EV. February 2023. Incorporating uncertainties about ecological and socioeconomic aspects to improve management and placement decisions of artificial reefs. World Recreational Fishing Conference 10. Melbourne, Australia. 
+
+*Chong L*. January 2023. Performance evaluation of data-limited, length-based life-history and stock assessment methods. Workshop 11 on the Development of Quantitative Assessment Methodologies based on Life-history traits, exploitation characteristics, and other relevant parameters for data-limited stocks (WKLIFE XI). Virtual talk.
+
+*Chong L*, Pienaar EF, and Camp EV. August 2022. Recreational angler preferences for red snapper fisheries management options in the Gulf of Mexico: a stated preference choice analysis. American Fisheries Society Annual Meeting. Virtual talk.
+
+Lorenzen K and *Chong L*. August 2022. Visioning Phase - Situation Assessment, Review, and Research Priorities. Greater Amberjack Visioning Insights Workshop. New Orleans, Louisiana. [Co-speaker].
+
+*Chong L*, Siders ZA, Fisch NC, and Camp EV. November 2021. Spatial considerations can determine net socioecological effects of artificial reefs on recreational fisheries and their management. Gulf and Caribbean Fisheries Institute Conference. Virtual talk.
+
+*Chong L* and Camp EV. October 2021. Incorporating uncertainties about ecological and socioeconomic aspects to improve management and placement decisions of artificial reefs. Think Tank Seminar. Virtual talk.
+
+*Chong L*, Siders ZA, Fisch NC, and Camp EV. September 2021. Spatial considerations can determine net socioecological effects of artificial reefs on recreational fisheries and their management. World Fisheries Congress. Virtual talk.
+
+*Chong L* and Camp EV. April 2021. Review of the socioecological effects of artificial reefs in recreational fisheries. 41st Annual Meeting of the Florida Chapter of the American Fisheries Society. Virtual talk.
+
+*Chong L* and Camp EV. November 2020. Spatial considerations can determine net socioecological effects of artificial reefs on recreational fisheries and their management. Florida Artificial Reef Summit 2020. Virtual talk.
+
+*Chong L* and Camp EV. September 2020. Can spatial considerations determine socioecological effects of artificial reefs on recreational fisheries and their management?. American Fisheries Society Virtual Annual Meeting. Virtual talk.
+
+*Chong L*, Camp EV, Lorenzen K, and Ahrens R. November 2019. Effects of artificial reefs on recreational fisheries: what we don’t know might hurt us. International Symposium on Stock Enhancement and Sea Ranching (ISSESR).
+
+*Chong L*, Mildenberger TK, Rudd MB, Taylor MH, Cope JM, Branch TA, Wolff M, and Stäbler M. September 2019. Performance evaluation of data-limited, length-based stock assessment methods. International Council for the Exploration of the Sea (ICES) Annual Science Conference. Gothenberg, Sweden. Poster.
+
+*Chong L*, Mildenberger TK, Rudd MB, Taylor MH, Cope JM, Branch TA, Wolff M, and Stäbler M. May 2018. Performance evaluation of data-poor stock assessment methods. Working Group on Length-Based Methods for Population Studies and Stock Assessment. Bremen, Germany. 
+
+# Workshop attendance
+
+Advanced stock assessment with RTMB. 26 February - 1 March, 2024. Workshop.
+ICES Methods Working Group. November 13-17, 2023. Workshop.
+
+Workshop 11 on the Development of Quantitative Assessment Methodologies based on Life-
+history traits, exploitation characteristics, and other relevant parameters for data-limited stocks (WKLIFE XI). January 16-20, 2023. Workshop.
+
+Greater Amberjack Visioning Insights Workshop. New Orleans, Louisiana. August 8-10, 2022. Workshop.
+
+Decision Analysis in Natural Resource Management Workshop. University of Washington.
+September 21-25, 2021. Workshop.
+
+Numerical Computing for the Natural Resources TMB Workshop. University of Washington.
+September 23-28, 2020. Virtual Workshop.
+
+Advanced school on multispecies modelling approaches for ecosystem based marine resource management in the Mediterranean Sea, Italy. July 30 - August 3, 2018. Workshop
+
+# Professional service
+
+Fisheries and Aquatic Sciences Graduate Student Organization treasurer \hfill 2020-2022
+
+American Fisheries Society (AFS) member. \hfill 2020 - present
+
+Fisheries and Aquatic Sciences Graduate Student Symposium Committee member. \hfill 2020-2022
+
+SFRC Fall 2020 Grad Gathering Organizing Team \hfill 2020
+
+Teaching Assistant in Population Fish Dynamics at Universität Bremen. \hfill 2018
+
+
+# Peer-review contributions
+
+I currently serve as a reivewer for the following journals:
+
+Fisheries Research, Bulletin for Marine Science, ICES Journal of Marine Science
+Ecological Modelling, Marine and Freshwater Research, Canadian Journal of Fisheries and Aquatic Sciences, Fisheries Management and Ecology, North American Journal of Fish Management
