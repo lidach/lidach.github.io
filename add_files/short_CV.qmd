@@ -1,0 +1,51 @@
+---
+title: CV
+format:
+  quarto-cv-pdf: default
+author: Lisa Chong
+date: last-modified
+address: "Quantitative Fisheries Center · Michigan State University · 375 Wilson Rd. Room 100 · East Lansing, Michigan 48824"
+email: chonglis@msu.edu
+fontsize: 11pt
+fontawesome: yes
+nocite: '@*'
+validate-yaml: false
+csl: apa-cv.csl
+---
+
+# Current employment
+
+Assistant Research Professor \hfill 2024-present\
+Quantitative Fisheries Center, Michigan State University
+
+# Education
+
+University of Florida, Ph.D. Fisheries and Aquatic Sciences \hfill 2023\
+Universität Bremen, M.Sc. International Studies in Aquatic Tropical Ecology \hfill 2018\
+State University of New York at Stony Brook, B.Sc. Marine Vertebrate Biology \hfill 2016
+
+# Technical expertise
+
+*Research*: Fish population dynamics, fisheries stock assessment, hierarchical modeling, simulation modeling, harvest control rule design, management strategy evaluation, statistics \
+*Programming and scientific computing*: R, C++, TMB, RTMB, ADMB, Stock Synthesis, Quarto, LaTex, data visualization, parallel computing, reproducible workflows with Quarto and Git/GitHub, debugging, Linux systems
+
+# Stock assessment consultation
+
+Lake Erie - Yellow Perch. \hfill 2024 - present.\
+1836 Treaty Waters - Lake Whitefish. \hfill 2023 - present.\
+Wisconsin Lake Michigan - Lake WhiteFish. \hfill 2024 - present. \
+1842 Treaty Waters - Lake Whitefish. \hfill 2023 - 2024. \
+Reserach Track Working Group: 2022 Improving Assessments for Black Sea Bass. \hfill 2022 - 2023.\
+Gulf of Mexico and South Atlantic Greater Amberjack Research Program. \hfill 2020 - 2022.
+
+# Peer-review publications
+
+I have published 4 peer-reviewed publications and 9 technical reports and outreach documents. Below I list the most relevant ones:
+
+*Chong L*, Pienaar E, Ahrens R, and Camp E. (2024). Recreational Angler Preferences for, and Potential Effort Responses, to Different Red Snapper Management Approaches. Conservation Science and Practice.
+
+*Chong L*\*, Fisch N\*, Borsum JS, Granneman J, Perry D, Love G, Hall-Schard B, Botta R, Lorenzen K, Camp E, Siders Z. (2023). Examining the performance of alternative harvest regulations for short-lived taxa: A case study of Florida Bay scallop management. Fisheries Research, 263, 106683. \[\*Co-first author\]
+
+*Chong L*, Mildenberger TK, Rudd MB, Taylor MH, Cope JM, Branch TA, Wolff M, Stäbler M. (2020). Performance evaluation of data-limited, length-based stock assessment methods. ICES Journal of Marine Science, 77(1), 97-108.
+
+ICES. (2023). Eleventh Workshop on the Development of Quantitative Assessment Methodologies based on LIFE-history traits, exploitation characteristics, and other relevant parameters for data-limited stocks (WKLIFE XI). ICES Scientific Reports. 5:21. 74 pp.
