@@ -4,10 +4,10 @@ format:
   quarto-cv-pdf: default
 author: Lisa Chong
 date: last-modified
-address: "Quantitative Fisheries Center · Michigan State University · 375 Wilson Rd. Room 100 · East Lansing, Michigan 48824"
+address: "Quantitative Fisheries Center · Michigan State University · 1405 S. Harrison St. · East Lansing, Michigan 48823"
 email: chonglis@msu.edu
 fontsize: 11pt
-#fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
+fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
 #mainfont: Ubuntu # if you want to use a different locally installed font
 #CJKmainfont: Noto Sans CJK JP # locally installed Asian character font, must use with xelatex
 github: lidach
@@ -22,14 +22,14 @@ csl: apa-cv.csl
 
 # Current employment
 
-Assistant Research Professor \hfill 2024-present\
+Assistant Research Professor \hfill 2024 - present\
 Quantitative Fisheries Center\
 Department of Fisheries and Wildlife\
 Michigan State University
 
 # Previous employment
 
-Research Associate (Postdoc) \hfill 2023-2024\
+Research Associate (Postdoc) \hfill 2023 - 2024\
 Quantitative Fisheries Center\
 Department of Fisheries and Wildlife\
 Michigan State University
@@ -46,11 +46,13 @@ State University of New York at Stony Brook, B.Sc. Marine Vertebrate Biology \hf
 
 *Research*: Fish population dynamics, fisheries stock assessment, hierarchical modeling, simulation modeling, harvest control rule design, management strategy evaluation, statistics
 
-*Programming and scientific computing*: R, C++, TMB, RTMB, ADMB, Stock Synthesis, Quarto, LaTex, data visualization, parallel computing, reproducible workflows with Quarto and Git/GitHub, debugging, Linux systems
+*Programming and scientific computing*: R, C++, TMB, RTMB, ADMB, Stock Synthesis, Quarto, LaTex, data visualization, parallel computing, reproducible workflows with Quarto and Git/GitHub, debugging, Windows/Mac/Linux systems
 
 # Stock assessment consultation
 
 I am part of a small team at the QFC (with Drs. Chris Cahill and Travis Brenden) that supports the development of revised assessment approaches, standardizes base code, translates statistical catch-at-age models from ADMB to RTMB, restructures data inputs, facilitates communication on data and assessment challenges and issues, and provides stock assessment advice to agency biologists:
+
+Lake Erie - Walleye. \hfill 2025 - present.
 
 Lake Erie - Yellow Perch. \hfill 2024 - present.
 
@@ -60,15 +62,13 @@ Wisconsin Lake Michigan Lake WhiteFish. \hfill 2024 - present.
 
 1842 Treaty Waters - Lake Whitefish. \hfill 2023 - 2024.
 
-I list stock assessment related projects I was involved with outside of the QFC:
+Additional stock assessment work:
+
+*Center for Independent Experts (CIE) Reviewer for SEDAR 84* \hfill July 2025
 
 *Reserach Track Working Group: 2022 Improving Assessments for Black Sea Bass*. \hfill 2022 - 2023.
 
--   Research assistant: assisted in the development of the Stock Synthesis model, one of the candidate models for the Research Track Stock Assessment.
-
-*Gulf of Mexico and South Atlantic Greater Amberjack Research Program*. 2020 - 2022.
-
--   Visioning team member: provided research recommendations (based on existing information and consultation of stakeholders and independent experts) for the steering committee, which assisted in the development of the Request for Proposals (RFPs)
+*Gulf of Mexico and South Atlantic Greater Amberjack Research Program*. \hfill 2020 - 2022.
 
 # Awards
 
@@ -82,7 +82,7 @@ AIRFB WF Thompson Best Student Paper Award \hfill 2020
 
 UF SRFC/FFGS Travel Grant \hfill 2019; 2023
 
-# Peer-review publications
+# Peer-reviewed publications
 
 *Chong L*, Pienaar E, Ahrens R, and Camp E. (2024). Recreational Angler Preferences for, and Potential Effort Responses, to Different Red Snapper Management Approaches. Conservation Science and Practice.
 
@@ -90,15 +90,7 @@ UF SRFC/FFGS Travel Grant \hfill 2019; 2023
 
 *Chong L*\*, Fisch N\*, Borsum JS, Granneman J, Perry D, Love G, Hall-Schard B, Botta R, Lorenzen K, Camp E, Siders Z. (2023). Examining the performance of alternative harvest regulations for short-lived taxa: A case study of Florida Bay scallop management. Fisheries Research, 263, 106683. \[\*Co-first author\]
 
-*Chong L*, Mildenberger TK, Rudd MB, Taylor MH, Cope JM, Branch TA, Wolff M, Stäbler M. (2020). Performance evaluation of data-limited, length-based stock assessment methods. ICES Journal of Marine Science, 77(1), 97-108. **Editor's choice and AIRFB best student paper 2020**
-
-# Manuscripts and book chapters (in preparation)
-
-Chong et al. Nonstationary production dynamics drive the decline and collapse of Lake Whitefish in Lake Michigan. Target journal: Canadian Journal of Fisheries and Aquatic Sciences.
-
-Cahill et al. Jensen’s inequality systematically inflates Lake Erie Percid reference points. Target journal: Canadian Journal of Fisheries and Aquatic Sciences.
-
-Chong et al. Introduction to stock assessment: models, diagnostics, and uncertainty. Analysis of freshwater fisheries data, 2nd Edition. American Fisheries Society, Bethesda, Maryland.
+*Chong L*, Mildenberger TK, Rudd MB, Taylor MH, Cope JM, Branch TA, Wolff M, Stäbler M. (2020). Performance evaluation of data-limited, length-based stock assessment methods. ICES Journal of Marine Science, 77(1), 97-108. \[*Editor's choice and AIRFB best student paper 2020\]*
 
 # Technical reports and outreach documents
 
@@ -122,13 +114,17 @@ Nordhaus I, Siriwardane-de Zoysa R, Gillis LG, Yin Chee S, *Chong L*, Firth L, H
 
 # Presentations
 
-*Chong L* and Cahill CL. November 2024. Status of Stock Assessment and Training in the Great Lakes. ICES Methods Working Group. Copenhagen, Denmark. Virtual talk.
+Technical talks are denoted as $\dag$
 
-*Chong L*, Cahill CL, and Brendent T. October 2024. Yellow Perch data overview and conflicts. Presentation to the Lake Erie Yellow Perch Task Group, Lake Erie Standing Technical Commitee, Lake Erie Committee, and Great Lakes Fishery Commission. Ann Arbor, Michigan.
+*Chong L* and Brenden T. November 2025. Analysis of Fishery-Independent Data: Model-Based Approach. Presentation to the Lake Erie Standing Technical Commitee, Lake Erie Committee, and Great Lakes Fishery Commission. Virtual talk $\dag$
 
-*Chong L* and Cahill CL. August 2024. QFC updates on stock assessments in RTMB for Lake Whitefish. Virtual presentation given to 1842 Treaty Waters stock assessment biologists.
+*Chong L* and Brenden T. June 2025. Discussion of Inclusion of Datasets in the New Models. Presentation to the Lake Erie Yellow Perch Task Group, Lake Erie Standing Technical Commitee, Lake Erie Committee, and Great Lakes Fishery Commission. Ann Arbor, Michigan. $\dag$
 
-*Chong L* and Cahill CL. February 2024. Status on Lake Whitefish fisheries and stock assessments in the 1836 Treaty Waters. Tuesday Inter-Lab Quantitative Seminar. East Lansing, Michigan. February 2024.
+*Chong L* and Cahill CL. November 2024. Status of Stock Assessment and Training in the Great Lakes. ICES Methods Working Group. Copenhagen, Denmark. Virtual talk. 
+
+*Chong L*, Cahill CL, and Brenden T. October 2024. Yellow Perch data overview and conflicts. Presentation to the Lake Erie Yellow Perch Task Group, Lake Erie Standing Technical Commitee, Lake Erie Committee, and Great Lakes Fishery Commission. Ann Arbor, Michigan. $\dag$
+
+*Chong L* and Cahill CL. August 2024. QFC updates on stock assessments in RTMB for Lake Whitefish. Virtual presentation given to 1842 Treaty Waters stock assessment biologists. $\dag$
 
 *Chong L*, Camp EV, and Lorenzen K. November 2023. Challenges in rebuilding the Gulf of Mexico greater amberjack: insights on recruitment, projections, and productivity shifts. ICES Methods Working Group. East Lansing, Michigan.
 
@@ -142,7 +138,7 @@ Nordhaus I, Siriwardane-de Zoysa R, Gillis LG, Yin Chee S, *Chong L*, Firth L, H
 
 *Chong L*, Pienaar EF, and Camp EV. August 2022. Recreational angler preferences for red snapper fisheries management options in the Gulf of Mexico: a stated preference choice analysis. American Fisheries Society Annual Meeting. Virtual talk.
 
-Lorenzen K and *Chong L*. August 2022. Visioning Phase - Situation Assessment, Review, and Research Priorities. Greater Amberjack Visioning Insights Workshop. New Orleans, Louisiana. \[Co-speaker\].
+Lorenzen K and *Chong L*. August 2022. Visioning Phase - Situation Assessment, Review, and Research Priorities. Greater Amberjack Visioning Insights Workshop. New Orleans, Louisiana. \[Co-speaker\]. $\dag$
 
 *Chong L*, Siders ZA, Fisch NC, and Camp EV. November 2021. Spatial considerations can determine net socioecological effects of artificial reefs on recreational fisheries and their management. Gulf and Caribbean Fisheries Institute Conference. Virtual talk.
 
@@ -164,32 +160,38 @@ Lorenzen K and *Chong L*. August 2022. Visioning Phase - Situation Assessment, R
 
 # Workshop attendance
 
-Advanced stock assessment with RTMB. 26 February - 1 March, 2024. Workshop. ICES Methods Working Group. November 13-17, 2023. Workshop.
+ICES Methods Working Group. 18 - 22 November, 2024. Copenhagen, Denmark.
 
-Workshop 11 on the Development of Quantitative Assessment Methodologies based on Life- history traits, exploitation characteristics, and other relevant parameters for data-limited stocks (WKLIFE XI). January 16-20, 2023. Workshop.
+Advanced stock assessment with RTMB. 26 February - 1 March, 2024.
 
-Greater Amberjack Visioning Insights Workshop. New Orleans, Louisiana. August 8-10, 2022. Workshop.
+ICES Methods Working Group. November 13-17, 2023. East Lansing, Michigan, USA.
 
-Decision Analysis in Natural Resource Management Workshop. University of Washington. September 21-25, 2021. Workshop.
+Workshop 11 on the Development of Quantitative Assessment Methodologies based on Life- history traits, exploitation characteristics, and other relevant parameters for data-limited stocks (WKLIFE XI). January 16-20, 2023.
 
-Numerical Computing for the Natural Resources TMB Workshop. University of Washington. September 23-28, 2020. Virtual Workshop.
+Decision Analysis in Natural Resource Management Workshop. University of Washington. September 21-25, 2021.
 
-Advanced school on multispecies modelling approaches for ecosystem based marine resource management in the Mediterranean Sea, Italy. July 30 - August 3, 2018. Workshop
+Numerical Computing for the Natural Resources TMB Workshop. University of Washington. September 23-28, 2020.
+
+Advanced school on multispecies modelling approaches for ecosystem based marine resource management in the Mediterranean Sea, Italy. July 30 - August 3, 2018.
 
 # Professional service
 
 Fisheries and Aquatic Sciences Graduate Student Organization treasurer \hfill 2020-2022
 
-American Fisheries Society (AFS) member. \hfill 2020 - present
-
 Fisheries and Aquatic Sciences Graduate Student Symposium Committee member. \hfill 2020-2022
 
-giSFRC Fall 2020 Grad Gathering Organizing Team \hfill 2020
+SFRC Fall 2020 Grad Gathering Organizing Team \hfill 2020
 
-Teaching Assistant in Population Fish Dynamics at Universität Bremen. \hfill 2018
+# Teaching
+
+Classroom teaching (guest lecture): 
+
+- Population Fish Dynamics, Universität Bremen (2018)
+- FAS 6339C: Advanced Quantitative Fisheries Assessment, University of Florida (2025)
+- FW 891: Statistics for Fisheries and Wildlife Management and Ecology, Michigan State University (2025)
 
 # Peer-review contributions
 
 I currently serve as a reviewer for the following journals:
 
-Fisheries Research, Bulletin for Marine Science, ICES Journal of Marine Science Ecological Modelling, Marine and Freshwater Research, Canadian Journal of Fisheries and Aquatic Sciences, Fisheries Management and Ecology, North American Journal of Fish Management
+Fisheries Research, Bulletin for Marine Science, ICES Journal of Marine Science, Ecological Modelling, Marine and Freshwater Research, Canadian Journal of Fisheries and Aquatic Sciences, Fisheries Management and Ecology, North American Journal of Fish Management, Ecology and Society
