@@ -1,8 +1,24 @@
 ---
 title: "Research"
-listing: 
-  contents: research 
-  type: grid 
-  sort: "date desc" 
-  categories: true 
+listing:
+  - id: listing-new
+    contents: research/current
+    type: grid
+    sort: "date desc"
+    categories: true
+  - id: listing-old
+    contents: research/archive
+    type: grid
+    sort: "date desc"
+    categories: true
 ---
+
+## Current Projects
+
+::: {#listing-new}
+:::
+
+## Past Projects
+
+::: {#listing-old}
+:::

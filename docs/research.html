@@ -74,7 +74,35 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-listing-new .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing-new'] = new List('listing-listing-new', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing-old .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -87,7 +115,7 @@ ul.task-list li input[type="checkbox"] {
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-listing-old'] = new List('listing-listing-old', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -216,14 +244,23 @@ window.Quarto = {
 </header>
 
 
+<section id="current-projects" class="level2">
+<h2 class="anchored" data-anchor-id="current-projects">Current Projects</h2>
+<div id="listing-listing-new" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
 
-
-
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
+<section id="past-projects" class="level2">
+<h2 class="anchored" data-anchor-id="past-projects">Past Projects</h2>
+<div id="listing-listing-old" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
 <div class="g-col-1" data-index="0" data-categories="data-limited,stock assessment" data-listing-file-modified-sort="1738595412237" data-listing-reading-time-sort="2" data-listing-word-count-sort="393">
-<a href="./research/dllm.html" class="quarto-grid-link">
+<a href="./research/archive/dllm.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="./add_files/images/datalimitedfish.JPG" class="thumbnail-image card-img" style="height: 150px;">
@@ -253,7 +290,7 @@ Authors: Lisa Chong (ZMT), Tobias Mildenberger (DTU), Merrill Rudd (UW), Marc Ta
 </a>
 </div>
 <div class="g-col-1" data-index="1" data-categories="artificial reefs,socio-ecological,recreational,literature review" data-listing-file-modified-sort="1738595412237" data-listing-reading-time-sort="2" data-listing-word-count-sort="359">
-<a href="./research/ar_ses.html" class="quarto-grid-link">
+<a href="./research/archive/ar_ses.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="./add_files/images/ar_ses_fig1.jpg" class="thumbnail-image card-img" style="height: 150px;">
@@ -289,7 +326,7 @@ Authors: Lisa Chong (UF), Zachary Siders (UF), Kai Lorenzen (UF), Robert Ahrens 
 </a>
 </div>
 <div class="g-col-1" data-index="2" data-categories="recreational,red snapper,economics,angler behavior" data-listing-file-modified-sort="1738595412237" data-listing-reading-time-sort="2" data-listing-word-count-sort="326">
-<a href="./research/rs.html" class="quarto-grid-link">
+<a href="./research/archive/rs.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="./add_files/images/rs_fig1.jpg" class="thumbnail-image card-img" style="height: 150px;">
@@ -325,7 +362,7 @@ Authors: Lisa Chong (UF), Elizabeth Pienaar (UGA), Robert Ahrens (PIFSC), and Ed
 </a>
 </div>
 <div class="g-col-1" data-index="3" data-categories="harvest policy evaluation,simulation,bay scallop" data-listing-file-modified-sort="1738595412241" data-listing-reading-time-sort="2" data-listing-word-count-sort="358">
-<a href="./research/scallop.html" class="quarto-grid-link">
+<a href="./research/archive/scallop.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="./add_files/images/scallop_fig3.jpeg" class="thumbnail-image card-img" style="height: 150px;">
@@ -358,7 +395,7 @@ Authors: Lisa Chong* (UF), Nicholas Fisch* (SEFSC), John Scott Borsum (UF), Jenn
 </a>
 </div>
 <div class="g-col-1" data-index="4" data-categories="artificial reefs,socio-ecological,recreational,extension" data-listing-file-modified-sort="1728531640000" data-listing-reading-time-sort="3" data-listing-word-count-sort="562">
-<a href="./research/ar_fl.html" class="quarto-grid-link">
+<a href="./research/archive/ar_fl.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="./add_files/images/ar_ses_fig6.jpeg" class="thumbnail-image card-img" style="height: 150px;">
@@ -397,7 +434,13 @@ EDIS is the Electronic Data Information Source of UF/IFAS Extension, a collectio
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-</div></main> <!-- /main -->
+</div>
+
+
+
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

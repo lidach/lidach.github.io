@@ -6,5 +6,5 @@ I embed a current version of my CV below:
 
 ```{=html}
 
-<iframe width = "780" height = "500" src = "/docs/add_files/CV.pdf"></iframe>
+<iframe width = "780" height = "500" src = "/add_files/CV.pdf"></iframe>
 ```
